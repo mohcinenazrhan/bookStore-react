@@ -10,7 +10,7 @@
     "react-scripts": "2.0.5",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.82.5",
-    "validator": "^10.8.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
